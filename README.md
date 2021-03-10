@@ -14,3 +14,9 @@ source export.rc
 ./run-hello-world-with-native-image.sh
 ```
 
+Für die verschiedenen Alternativen mit Reflection in Klasse ReflectiveInteger 
+ein-/aus-kommentieren und dieses Script benutzen
+
+```
+run-reflective-integer-with-native-image.sh
+```
